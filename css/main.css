@@ -1,0 +1,23 @@
+/* ============================= */
+/* ! Larkfofty Styles  */
+/* ============================= */
+
+#navbar {
+    margin-bottom: 40px;
+}
+
+footer  {
+    background-color: #e5e5e5;
+    margin-top: 50px;
+}
+
+footer #footer-container {
+    padding: 25px 0 25px 0;
+}
+
+footer p {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    color: #777;
+}
